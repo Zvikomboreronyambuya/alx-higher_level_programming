@@ -1,3 +1,3 @@
 #!/usr/bin/python3
-for n in range(99):
+for i in range(98):
     print("{:d} = {}".format(i, hex(i)))
