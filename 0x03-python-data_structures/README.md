@@ -1,17 +1,18 @@
-'Set of Projects : Data Structures: Lists, Tuples.'
+Set of Projects : Data Structures: Lists, Tuples.
 
-**0-print_list_integer.py - Prototype: def print_list_integer(my_list=[]):**
-**1-element_at.py - Prototype:def element_at(my_list, idx):**
-**10-divisible_by_2.py - Prototype: def divisible_by_2(my_list=[]):**
-**100-print_python_list_info.c - Prototype:void print_python_list_info(PyObject *p):**
-**11-delete_at.py - Prototype: def no_c(my_string):**
-**12-switch.py - Prototype: Complete the source code in order to switch value of a and b**
-**13-is_palindrome.c - Prototype:int is_palindrome(listint_t **head);**
-**2-replace_in_list.py - Prototype:def replace_in_list(my_list, idx, element):**
-**3-print_reversed_list_integer.py - Prototype:def print_reversed_list_integer(my_list=[]):**
-**4-new_in_list.py - Prototype: def new_in_list(my_list, idx, element):**
-**5-no_c.py - Prototype:def no_c(my_string):**
-**6-print_matrix_integer.py - Prototype: def print_matrix_integer(matrix=[[]]):**
-**7-add_tuple.py - Prototype: def add_tuple(tuple_a=(), tuple_b=()):**
-**8-multiple_returns.py - Prototype: def multiple_returns(sentence):**
-**9-max_integer.py - Prototype: def max_integer(my_list=[]):**
+1. [Print List Integer](https://github.com/Zvikomboreronyambuya/alx-higher_level_programming/blob/master/0x03-python-data_structures//0-print_list_integer.py)
+2. [Element at](https://github.com/Zvikomboreronyambuya/alx-higher_level_programming/blob/master/0x03-python-data_structures/1-element_at.py)
+3. [Divisible by 2](https://github.com/Zvikomboreronyambuya/alx-higher_level_programming/blob/master/0x03-python-data_structures/10-divisible_by_2.py)
+4. [Print Python List Info](/100-print_python_list_info.c)
+5. [Delete at](link-to-project/11-delete_at.py)
+6. [Switch](link-to-project/12-switch.py)
+7. [Is Palindrome](link-to-project/13-is_palindrome.c)
+8. [Replace in List](https://github.com/Zvikomboreronyambuya/alx-higher_level_programming/blob/master/0x03-python-data_structures/2-replace_in_list.py)
+9. [Print Reversed List Integer](https://github.com/Zvikomboreronyambuya/alx-higher_level_programming/blob/master/0x03-python-data_structures/3-print_reversed_list_integer.py)
+10. [New in List](https://github.com/Zvikomboreronyambuya/alx-higher_level_programming/blob/master/0x03-python-data_structures/4-new_in_list.py)
+11. [No C](https://github.com/Zvikomboreronyambuya/alx-higher_level_programming/blob/master/0x03-python-data_structures/5-no_c.py)
+12. [Print Matrix Integer](https://github.com/Zvikomboreronyambuya/alx-higher_level_programming/blob/master/0x03-python-data_structures/6-print_matrix_integer.py)
+13. [Add Tuple](https://github.com/Zvikomboreronyambuya/alx-higher_level_programming/blob/master/0x03-python-data_structures/7-add_tuple.py)
+14. [Multiple Returns](https://github.com/Zvikomboreronyambuya/alx-higher_level_programming/blob/master/0x03-python-data_structures/8-multiple_returns.py)
+15. [Max Integer](https://github.com/Zvikomboreronyambuya/alx-higher_level_programming/blob/master/0x03-python-data_structures/9-max_integer.py)
+
