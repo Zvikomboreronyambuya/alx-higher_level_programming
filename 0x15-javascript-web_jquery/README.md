@@ -1,4 +1,4 @@
-**0x15. JavaScript - Web jQuery
-Front-end
-JavaScript
-**
+**0x15. JavaScript - Web jQuery**
+
+*Front-end*
+*JavaScript*
